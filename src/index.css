@@ -1,0 +1,42 @@
+/* index.css ou main.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.passion-regular {
+  font-family: "Passion One", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.primary {
+  color: #269acd;
+}
+
+.blueLight {
+  color: #4cdec8;
+}
+
+.greenLight {
+  color: #75eba3;
+}
+
+.blueDark {
+  color: #1aa392;
+}
+
+.greenDark {
+  color: #11783e;
+}
